@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Post One",
+      "body": "This is the post body",
+      "publishedAt": "29-11-2020"
+    },
+    {
+      "id": "2",
+      "title": "Post Two",
+      "body": "This is the post body",
+      "publishedAt": "29-11-2020"
+    },
+    {
+      "id": "3",
+      "title": "Post three",
+      "body": "This is the post body",
+      "publishedAt": "29-11-2020"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "MC",
+      "email": "a@gmail.com"
+    },
+    {
+      "name": "Minh Chính",
+      "email": "a@gmail.com",
+      "id": "ny5RGts"
+    }
+  ]
+}
